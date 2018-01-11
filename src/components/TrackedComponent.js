@@ -37,7 +37,7 @@ export class TrackedComponent extends Component {
         1,
         null,
         null,
-        {'Component Name' : this.constructor.displayName});
+        {'Component Name' : this.displayName});
      
   }
 }
